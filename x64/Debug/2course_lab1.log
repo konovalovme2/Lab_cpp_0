@@ -1,0 +1,12 @@
+﻿  2course_lab1.cpp
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab1\Header.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab1\2course_lab1.cpp(131,36): warning C4101: 'e': unreferenced local variable
+  ContainerSource.cpp
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab1\Header.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab1\ContainerSource.cpp(33,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab1\ContainerSource.cpp(96,35): warning C4101: 'e': unreferenced local variable
+  Source.cpp
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab1\Header.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  stdafx.cpp
+  Generating Code...
+  2course_lab1.vcxproj -> D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab1\x64\Debug\2course_lab1.exe

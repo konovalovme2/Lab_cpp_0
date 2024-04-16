@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab1\Header.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab1\Source.cpp(79,23): warning C4018: '<': signed/unsigned mismatch
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab1\Source.cpp(87,23): warning C4018: '<': signed/unsigned mismatch
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab1\Source.cpp(98,23): warning C4018: '<': signed/unsigned mismatch
+  2course_lab1.vcxproj -> D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab1\Debug\2course_lab1.exe

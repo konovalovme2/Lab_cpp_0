@@ -1,0 +1,11 @@
+﻿  Source.cpp
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab1\Header.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab1\Source.cpp(84,23): warning C4018: '<': signed/unsigned mismatch
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab1\Source.cpp(92,23): warning C4018: '<': signed/unsigned mismatch
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab1\Source.cpp(103,23): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  6 of 122 functions ( 4.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  2course_lab1.vcxproj -> D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab1\Release\2course_lab1.exe
